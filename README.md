@@ -15,3 +15,4 @@ Drop all relevant papers in here and we'll sort them into folders later
 # Other relevant links
 
 http://www.macrovu.com/CCTGeneralInfo.html
+"Brains, Minds and Machines: Welcome and Introductory Remarks" at http://mit150.mit.edu/symposia/brains-minds-machines
