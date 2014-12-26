@@ -12,6 +12,10 @@ But, seriously, where are our super intelligent robots? One way of trying to ans
 Drop all relevant papers in here and we'll sort them into folders later
 
 
+# Paper links
+http://www.cs.iastate.edu/~honavar/property-pac.pdf
+
+
 # Other relevant links
 
 * http://www.macrovu.com/CCTGeneralInfo.html
